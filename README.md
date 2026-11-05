@@ -1,1 +1,1 @@
-# misc
+APF Generator does not collect, transmit, sell or share any personal data. All calculations and PDF generation run locally inside your browser. The extension stores your last-used totals, term amounts, dates and a copy of the blank form you load in this browser's local storage so they are still there when you reopen it. Student names and Social Security digits you type are never stored. You can erase stored data with the "Clear all" button or by removing the extension. Contact: yanami.arona@gmail.com
